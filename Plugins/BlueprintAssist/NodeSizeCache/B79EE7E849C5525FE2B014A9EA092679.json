@@ -1,6 +1,119 @@
 {
 	"packageCache":
 	{
+		"/Game/Assets/Blueprint/Player/BP_Player":
+		{
+			"graphCache":
+			{
+				"E1176A8B408BE19B60A5D2B2D3923C16":
+				{
+					"cachedNodes":
+					{
+						"43ACDA244F96F0814C3260A085003A70":
+						{
+							"cachedNodeSize":
+							{
+								"x": 304.239990234375,
+								"y": 208
+							},
+							"cachedPins":
+							{
+								"C662B1644B6E9394398DB490C2DC80F6": 57,
+								"0AC760274878BBE2E9A500B48AF9E39B": 86,
+								"539F72A546A5D39B86E159BAB23D122D": 123,
+								"CC131C7F4BF796E2E3B18FBD17AC8DA7": 160,
+								"50224EDE47BB8D10C8E238B85403706E": 190,
+								"9F8DCA7546494EBDD54CA1AB5120B02A": 57,
+								"7879DEC34A7EB480B142DB9DCF1A789C": 84
+							}
+						},
+						"5C26148E47E757E10706A9A206FD5913":
+						{
+							"cachedNodeSize":
+							{
+								"x": 215,
+								"y": 112
+							},
+							"cachedPins":
+							{
+								"CB8A474F4037E2BF6593B8B350BA58F0": 41,
+								"FF94E0CE4D140653726188AD147D9F92": 69,
+								"024AC4D1417079756D063E87860093E2": 96
+							}
+						},
+						"346E74B0440EE42657045D9B2DB5BA6F":
+						{
+							"cachedNodeSize":
+							{
+								"x": 255,
+								"y": 72
+							},
+							"cachedPins":
+							{
+								"5EE567144441E8C8E47FE88FE8211E9E": 56,
+								"8D348F1A4AB45AB095386DBAE7DEF050": 56
+							}
+						},
+						"C416A7F54938851265F74EB5F091D0F1":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 34
+							},
+							"cachedPins":
+							{
+								"48340B1D4978EECDA63A50BE18D885DC": 17
+							}
+						},
+						"F4DAFD2547CF46E96FBF30B8B52F0170":
+						{
+							"cachedNodeSize":
+							{
+								"x": 335,
+								"y": 299
+							},
+							"cachedPins":
+							{
+								"1082CE5D4905AD9066B581A5A699CF3A": 57,
+								"3E18ADCA435E57C88552A2A8F9433307": 84,
+								"712B81E2457BF236898228B0B325C3F0": 119,
+								"F29664FD4C9E1E1B3C73668F57ECCB30": 156,
+								"4BABB544448F56730C5639B99FEE11DC": 195.5,
+								"4E16847849DB51DEDFF8BFAD5E50DCD8": 242,
+								"B67B39FC42A1B2158F327BBA01FE9956": 280,
+								"9938E31C4116033E946C48B6F9906A0F": 57,
+								"5BFFED584E9F0E2D1E151EAB9D3CCD9B": 84
+							}
+						}
+					}
+				}
+			}
+		},
+		"/Game/Assets/Animations/Player/MABP_Player":
+		{
+			"graphCache":
+			{
+				"C4C6FFDA457B0C3659DA12B572A06807":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
+		},
+		"/Game/Assets/Blueprint/Player/Component/ACBP_Inventory":
+		{
+			"graphCache":
+			{
+				"E3164F7946135710EA4CB6B37598F286":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
+		}
 	},
 	"cacheVersion": 1
 }
