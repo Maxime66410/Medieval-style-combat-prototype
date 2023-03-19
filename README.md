@@ -16,7 +16,7 @@ Chivalry 2 : https://store.steampowered.com/app/1824220/Chivalry_2/
 - Feints are there too, but in a simpler way is quick to manage, as is canceling attacks.
 - The damage system.
 - Basic networking.
-- A wide variety of weapons and variants (81 so the moment).
+- A wide variety of weapons and variants (81 for the moment).
 - Classic inventory management like on Chivalry 2.
 - Added a very useful Voice Command for taunt.
 - Camera TPS & FPS manage at the same time.
