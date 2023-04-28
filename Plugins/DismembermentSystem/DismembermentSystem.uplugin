@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "EnGore: Dismemberment System",
+	"Description": "Procedurally break bones of any skeletal mesh at runtime. No baking of meshes required.",
+	"Category": "Gameplay",
+	"CreatedBy": "SovereignDev",
+	"CreatedByURL": "",
+	"DocsURL": "https://app.milanote.com/1MQHr51cI5RJ2H?p=XmVzKYwdfSs",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/edf7df173002459caf956adabd3c694f",
+	"SupportURL": "sovereign.dev44@gmail.com",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DismembermentSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		}
+	]
+}
