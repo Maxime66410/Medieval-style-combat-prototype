@@ -23,4 +23,4 @@ Chivalry 2 : https://store.steampowered.com/app/1824220/Chivalry_2/
 
 ...
 
-More mechanics to come 
+More mechanics to come  
